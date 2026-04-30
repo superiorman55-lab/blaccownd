@@ -20,8 +20,6 @@
   <div id="root"></div>
   <script type="text/babel">
     const { useState, useRef, useEffect } = React;
-
-```
 const C = {
   black: "#0A0A0A", blackCard: "#111111", blackBorder: "#1E1E1E",
   blackMid: "#161616", gold: "#C9A84C", goldDim: "rgba(201,168,76,0.12)",
@@ -458,8 +456,6 @@ export default function BlaccOwnd() {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<BlaccOwnd />);
-```
-
   </script>
 </body>
 </html>
